@@ -13,7 +13,6 @@ import com.optusdemo.pageObject.OptusAllPage;
 public class Tc_PriceValidation_001 extends BaseClass {
 	
 	
-		
 		@BeforeMethod
 		public void launchBrowser()
 		{
