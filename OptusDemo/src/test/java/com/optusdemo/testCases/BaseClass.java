@@ -35,11 +35,7 @@ public class BaseClass {
 
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		
-		
-
 	}
-
-
 
 
 	public void tearDown()
@@ -72,7 +68,6 @@ public class BaseClass {
 	
 	public void captureScreenShot(WebDriver driver,String testName) throws IOException
 	{
-	
 		TakesScreenshot screenshot = ((TakesScreenshot)driver);
 		
 		File src = screenshot.getScreenshotAs(OutputType.FILE);

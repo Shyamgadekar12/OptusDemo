@@ -1,0 +1,18 @@
+[INFO ] 2024-09-29 12:43:17.512 [main] OptusDemo - Chrome Browser launched
+[INFO ] 2024-09-29 12:43:20.972 [main] OptusDemo - URL have been Entered
+[INFO ] 2024-09-29 12:43:21.079 [main] OptusDemo - Execution for test pricevalidation is started...
+[INFO ] 2024-09-29 12:43:26.879 [main] OptusDemo - clicked on link of Shop iPhone16 Pro Max
+[INFO ] 2024-09-29 12:43:28.797 [main] OptusDemo - Colour option: White Titanium is selected
+[INFO ] 2024-09-29 12:43:29.367 [main] OptusDemo - Storage Size: 1 TB is selected
+[INFO ] 2024-09-29 12:43:29.619 [main] OptusDemo - Pay option: Outright is selected
+[INFO ] 2024-09-29 12:43:29.921 [main] OptusDemo - Select Device Button have been clicked
+[INFO ] 2024-09-29 12:43:30.252 [main] OptusDemo - Promo Plan option is selected
+[INFO ] 2024-09-29 12:43:36.613 [main] OptusDemo - Contue button have been clicked with Device and Plan added to cart
+[INFO ] 2024-09-29 12:43:37.275 [main] OptusDemo - I am new to Optus radio button is selected
+[INFO ] 2024-09-29 12:43:37.572 [main] OptusDemo - Continue button have been clicked
+[INFO ] 2024-09-29 12:43:44.800 [main] OptusDemo - Physical SIM & eSIM options are available
+[INFO ] 2024-09-29 12:43:45.531 [main] OptusDemo - Continue button have been clicked with Physical SIM option
+[INFO ] 2024-09-29 12:43:45.588 [main] OptusDemo - New Device Price in Cart is :$2848.32
+[INFO ] 2024-09-29 12:43:53.339 [main] OptusDemo - Due Today Price on Summary Charges: $2848.32
+[INFO ] 2024-09-29 12:43:53.339 [main] OptusDemo - test for Price Validation is passed
+[INFO ] 2024-09-29 12:43:54.086 [main] OptusDemo - Chrome Browser Closed

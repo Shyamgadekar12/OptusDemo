@@ -3,6 +3,9 @@ package com.optusdemo.testCases;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+
+import java.io.IOException;
+
 import org.testng.Assert;
 
 import com.optusdemo.pageObject.OptusAllPage;
@@ -25,7 +28,7 @@ public class Tc_PriceValidation_001 extends BaseClass {
 		
 
 		@Test
-		public void pricevalidation() throws InterruptedException
+		public void pricevalidation() throws InterruptedException, IOException
 		{
 		
 			log.info("Execution for test pricevalidation is started...");
@@ -72,6 +75,7 @@ public class Tc_PriceValidation_001 extends BaseClass {
 			else
 			{
 				log.info("test for Price Validation is failed");
+				captureScreenShot(driver,"pricevalidation");
 				Assert.fail();
 			}
 			

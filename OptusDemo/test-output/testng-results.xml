@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-29T12:23:37 IST" name="Suite" finished-at="2024-09-29T12:24:07 IST" duration-ms="30829">
+  <suite started-at="2024-09-29T12:43:12 IST" name="Suite" finished-at="2024-09-29T12:43:54 IST" duration-ms="41156">
     <groups>
     </groups>
-    <test started-at="2024-09-29T12:23:37 IST" name="Test" finished-at="2024-09-29T12:24:07 IST" duration-ms="30829">
+    <test started-at="2024-09-29T12:43:12 IST" name="Test" finished-at="2024-09-29T12:43:54 IST" duration-ms="41156">
       <class name="com.optusdemo.testCases.Tc_PriceValidation_001">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.optusdemo.testCases.Tc_PriceValidation_001@3646a422]" started-at="2024-09-29T12:23:37 IST" name="launchBrowser" finished-at="2024-09-29T12:23:43 IST" duration-ms="5587" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.optusdemo.testCases.Tc_PriceValidation_001@3646a422]" started-at="2024-09-29T12:43:13 IST" name="launchBrowser" finished-at="2024-09-29T12:43:21 IST" duration-ms="7740" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="pricevalidation()[pri:0, instance:com.optusdemo.testCases.Tc_PriceValidation_001@3646a422]" started-at="2024-09-29T12:23:43 IST" name="pricevalidation" finished-at="2024-09-29T12:24:07 IST" duration-ms="24395" status="PASS">
+        <test-method signature="pricevalidation()[pri:0, instance:com.optusdemo.testCases.Tc_PriceValidation_001@3646a422]" started-at="2024-09-29T12:43:21 IST" name="pricevalidation" finished-at="2024-09-29T12:43:53 IST" duration-ms="32291" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pricevalidation -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.optusdemo.testCases.Tc_PriceValidation_001@3646a422]" started-at="2024-09-29T12:24:07 IST" name="closeBrowser" finished-at="2024-09-29T12:24:07 IST" duration-ms="413" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.optusdemo.testCases.Tc_PriceValidation_001@3646a422]" started-at="2024-09-29T12:43:53 IST" name="closeBrowser" finished-at="2024-09-29T12:43:54 IST" duration-ms="652" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
